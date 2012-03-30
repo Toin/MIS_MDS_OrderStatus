@@ -1,0 +1,14 @@
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\Interop.SAPbobsCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\Interop.SAPbouiCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\MIS_MDS_OrderStatus.vbproj.ResolveComReference.cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\bin\x86\Release\MIS_MDS_OrderStatus.exe
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\bin\x86\Release\MIS_MDS_OrderStatus.pdb
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\bin\x86\Release\MIS_MDS_OrderStatus.xml
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\bin\x86\Release\Interop.SAPbobsCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\bin\x86\Release\Interop.SAPbouiCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\MIS_MDS_OrderStatus.Resources.resources
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\MIS_MDS_OrderStatus.vbproj.GenerateResource.Cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\MIS_MDS_OrderStatus.exe
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\MIS_MDS_OrderStatus.xml
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_OrderStatus\MIS_MDS_OrderStatus\obj\x86\Release\MIS_MDS_OrderStatus.pdb
